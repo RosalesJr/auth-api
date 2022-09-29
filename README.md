@@ -41,4 +41,3 @@ A bearer auth server inteded to practice server modularization, basic auth, use 
 ### UML
 
 ![Lab 8 UML](./img/uml-lab8.png)
-
